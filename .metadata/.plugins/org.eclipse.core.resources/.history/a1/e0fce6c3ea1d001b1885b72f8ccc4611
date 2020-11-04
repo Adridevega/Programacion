@@ -1,0 +1,25 @@
+import java.util.Scanner;
+public class If_y_operadores_de_comparación{
+
+	public static void main(String[] args)
+	{
+		int edad;
+		Scanner in = new Scanner(System.in);
+		System.out.println("Escriba su edad:");
+		 edad=in.nextInt();	
+		
+		if (edad > 18){
+			System.out.println("Eres mayor de edad ");	
+		}
+		
+		if (edad == 18) {
+			System.out.println("Acabas de cumplir 18 años eres mayor de edad18");
+		}
+		else {
+			System.out.println("Eres menor de edad");
+			
+		}
+	 }
+
+}
+	

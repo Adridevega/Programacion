@@ -1,0 +1,11 @@
+import java.util.*;
+public class While {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner (System.in);
+		int num;
+		System.out.println("Introduzca el nuúmero del cual quieres saber la tabla de multiplicar: ");
+		num= in.nextInt();
+	}
+
+}

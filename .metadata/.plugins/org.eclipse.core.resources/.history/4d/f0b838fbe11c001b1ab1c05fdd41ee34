@@ -1,0 +1,21 @@
+import java.util.Scanner;
+public class Conosonante {
+
+	public static void main(String[] args) {
+		Scanner teclado = new Scanner (System.in);
+		
+		String x = teclado.next(); 
+		int y = x.length();
+		char k;
+			
+			for (int i=0; i < y; i++) {
+				k = x.charAt(i);
+				if ((k != 'a') || (k != 'e') || (k != 'i') || (k != 'o') || (k != 'u'));
+				k = ' ';
+			}
+			System.out.print(k);
+				
+
+	}
+
+}

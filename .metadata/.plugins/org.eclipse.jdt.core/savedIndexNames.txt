@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\adrid\OneDrive\Escritorio\Carpeta maestra\DAM\Programación\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+967810169.index
+3218426853.index
+3542012792.index

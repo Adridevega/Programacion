@@ -1,0 +1,28 @@
+import java.util.Scanner;
+public class OcultarCaracter {
+
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		String frase;
+		String fr;
+		int pos;
+		char[] fraseTabla;
+		char ch;
+		
+	System.out.println("Introduzca frase...");
+		frase=in.nextLine();
+		fraseTabla=frase.toCharArray();
+		in.close();
+		
+		for (pos = 0; pos < frase.length(); pos++) {
+			ch = fraseTabla[pos];
+			if (pos==frase.length()-1) {
+				fraseTabla[pos]='*';
+			}
+			fr=new String(fraseTabla);
+			System.out.println(fr);
+				
+		}
+	}
+
+}
