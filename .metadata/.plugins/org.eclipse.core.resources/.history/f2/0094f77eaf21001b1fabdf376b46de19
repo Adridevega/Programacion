@@ -12,15 +12,13 @@ public class Ejercicio02_1
 		int a = Math.max(num1, num2);
 		int b= Math.min(num1, num2);
 		int res;
-		while(b!=0) 
-		{
+		do {
 			res = b;
-			b=a%b;		
+			b=a%b;
+		}while(b!=0);
 		System.out.println("El M.C.D entre "+num1+" y "+num2+" es: " + res);
-		
 		}
 	}
-}
 		
 
 

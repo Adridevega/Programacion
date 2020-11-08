@@ -11,4 +11,6 @@
     <fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="paqueteUdemy.Tren"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
 </qualifiedTypeNameHistroy>
