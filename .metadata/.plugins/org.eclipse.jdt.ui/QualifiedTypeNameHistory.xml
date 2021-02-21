@@ -14,7 +14,6 @@
     <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
     <fullyQualifiedTypeName name="java.math.BigDecimal"/>
     <fullyQualifiedTypeName name="java.lang.Float"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.tools.SysPropsDumper"/>
     <fullyQualifiedTypeName name="sun.tools.tree.ThisExpression"/>
@@ -23,9 +22,21 @@
     <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="EjerciciosCip7.libro"/>
     <fullyQualifiedTypeName name="com.sun.org.apache.xpath.internal.operations.String"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.sun.tools.classfile.ConstantPool.CONSTANT_NameAndType_info"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
     <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+    <fullyQualifiedTypeName name="poo.Empleados"/>
+    <fullyQualifiedTypeName name="poo.Empleado"/>
+    <fullyQualifiedTypeName name="poo.Jefatura"/>
+    <fullyQualifiedTypeName name="EjerciciosCIP9.Alumno"/>
+    <fullyQualifiedTypeName name="EjerciciosCIP9.Persona"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Arraylist.UsoEmpleado"/>
+    <fullyQualifiedTypeName name="Arraylist.Empleado"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="EjerciciosCip10.Persona"/>
+    <fullyQualifiedTypeName name="EjerciciosCip10.Direccion"/>
 </qualifiedTypeNameHistroy>
